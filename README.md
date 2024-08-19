@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Solved.acanemoiiaa](http://mazassumnida.wtf/api/v2/generate_badge?boj=Cpp)](https://solved.ac/Ruby})
+<img src="https://capsule-render.vercel.app/api?type=circle&color=#E2A9F3&height=200&section=header&text=ㅁㄴㅇㄹ&fontSize=35" />
 <!--
 **anemoiiaa/anemoiiaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
