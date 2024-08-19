@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-<img src="https://capsule-render.vercel.app/api?type=circle&color=#E2A9F3&height=200&section=header&text=ㅁㄴㅇㄹ&fontSize=35" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=E2A9F3&height=150&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=E2A9F3&height=150&section=footer" />
+
 <!--
 **anemoiiaa/anemoiiaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
