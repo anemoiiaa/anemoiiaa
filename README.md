@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&section=header&text=Anemoia&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Robotics-Vision&descAlignY=55&descAlign=72.8)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&section=header&text=Anemoiiaa&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Robotics-Vision&descAlignY=55&descAlign=72.8)
 
-# HELLO GUYS! IT'S ANEMOIA.
+# HELLO GUYS! IT'S ANEMOIIAA.
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/Opencv-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
 ---
 ### 📖 Education
